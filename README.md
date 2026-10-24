@@ -1,11 +1,8 @@
 # U2 - Prácticas de Lenguajes de Interfaz
-
-Repositorio de prácticas y ejercicios desarrollados para la Unidad 2 de la materia Lenguajes de Interfaz.
-
-- **Estudiante:** Ingrid Alina Bojorquez Beltran
-- **Materia:** Lenguajes de Interfaz
-- **Docente:** Dr. José Luis Medina Jiménez
-- **Horario:** 10:00 - 11:00
+ **Estudiante:** Ingrid Alina Bojorquez Beltran
+ **Materia:** Lenguajes de Interfaz
+ **Docente:** Dr. José Luis Medina Jiménez
+ **Horario:** 10:00 - 11:00
 
 ## Índice de prácticas
 
